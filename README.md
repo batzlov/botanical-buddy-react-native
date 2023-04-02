@@ -1,5 +1,6 @@
-# Garten Jeden
-Garten Jeden, ein Projekt von Robert Ackermann. Entwickelt mit React Native und Expo. Made with ♥ and ☕ in Erfurt.
+# Botanical Buddy
+Botanical Buddy, ein Projekt von Robert Ackermann. Entwickelt mit React Native und Expo. Made with ♥ and ☕ in Erfurt.
+
 
 ## Voraussetzungen
 Folgende Anwendungen müssen auf dem System installiert sein: expo-cli, NodeJS und npm.
@@ -7,11 +8,11 @@ Folgende Anwendungen müssen auf dem System installiert sein: expo-cli, NodeJS u
 ## Installation
 Repository klonen:
 
-    git clone https://source.ai.fh-erfurt.de/ro1376ac/garten-jeden-react-native.git
+    git clone https://source.ai.fh-erfurt.de/ro1376ac/botanical-buddy-react-native.git
 
 Ins Verzeichnis wechseln:
 
-    cd garten-jeden-react-native
+    cd botanical-buddy-react-native
 
 Paketabhängigkeiten installieren: 
 

@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "GartenJeden",
-    "slug": "GartenJeden",
+    "name": "BotanicalBuddy",
+    "slug": "BotanicalBuddy",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/garten-jeden-icon.png",
+    "icon": "./assets/images/bb-icon.png",
     "splash": {
       "image": "./assets/images/plant_bg.png",
       "resizeMode": "cover",
@@ -18,12 +18,12 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "garten-jeden"
+      "bundleIdentifier": "botanical-buddy"
     },
     "android": {
-      "package": "com.batzlov.gartenjeden",
+      "package": "com.batzlov.botanicalbuddy",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/garten-jeden-icon.png",
+        "foregroundImage": "./assets/images/bb-icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },

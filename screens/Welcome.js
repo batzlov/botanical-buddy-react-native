@@ -20,7 +20,7 @@ const Welcome = ({navigation}) => {
             />
             <CoverImage>
                 <IntroHeadline 
-                    headline="Garten Jeden." 
+                    headline="Botanical Buddy." 
                     subHeadline="Dein Zuhause, jetzt grüner!" 
                 />
                 <View 
